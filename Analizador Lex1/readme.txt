@@ -1,0 +1,1 @@
+Un analizador léxico que reconoce: (0 | 1)* 1100 1* y (01|10|00)*11
