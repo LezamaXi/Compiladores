@@ -1,0 +1,1 @@
+Un analizador léxico que reconozca los identificadores de PHP, las constantes enteras y los comentarios de una sola línea 
